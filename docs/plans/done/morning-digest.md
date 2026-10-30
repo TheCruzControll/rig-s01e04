@@ -1,6 +1,6 @@
 ---
 plan: morning-digest
-status: ready
+status: done
 owner: rook
 opened: 2026-10-29
 ---
@@ -77,3 +77,14 @@ page again with `LANE_MARKER` unset (the banner reads "no marker set") and uploa
 link. Move this plan to `docs/plans/done/` with its issue list.
 
 Done when: the preview link no longer shows the lane marker.
+
+## Issues
+
+- [#1 · Shared digest types](https://github.com/TheCruzControll/rig-s01e04/issues/1)
+- [#2 · Run-log reader](https://github.com/TheCruzControll/rig-s01e04/issues/2)
+- [#3 · Digest page](https://github.com/TheCruzControll/rig-s01e04/issues/3)
+- [#4 · Digest JSON](https://github.com/TheCruzControll/rig-s01e04/issues/4)
+- [#5 · Status-board digest links](https://github.com/TheCruzControll/rig-s01e04/issues/5)
+- [#6 · Digest route tests](https://github.com/TheCruzControll/rig-s01e04/issues/6)
+- [#7 · Public review preview](https://github.com/TheCruzControll/rig-s01e04/issues/7)
+- [#8 · Remove preview marker and archive plan](https://github.com/TheCruzControll/rig-s01e04/issues/8)
